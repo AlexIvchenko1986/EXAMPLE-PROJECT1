@@ -1,0 +1,15 @@
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\bin\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.exe
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\bin\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.deps.json
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\bin\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.runtimeconfig.json
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\bin\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.dll
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\bin\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.pdb
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.csproj.AssemblyReference.cache
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.AssemblyInfoInputs.cache
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.AssemblyInfo.cs
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.dll
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\refint\EXAMPLE001_HELLOCONSOLE.dll
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.pdb
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\EXAMPLE001_HELLOCONSOLE.genruntimeconfig.cache
+C:\Users\Alexander Ivchenko\Desktop\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\LESSON1C#\EXAMPLE001_HELLOCONSOLE\obj\Debug\net6.0\ref\EXAMPLE001_HELLOCONSOLE.dll
